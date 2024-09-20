@@ -41,7 +41,7 @@
 <br />
 <br />
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nathanloupy/nathanloupy/84d176b3a116bc2d2795aaf6dc995fc0769c810d/upisdown.gif" align="center" valign="bottom"/>
+<img src="https://github.com/Nathanloupy/Nathanloupy/blob/main/upisdown.gif?raw=true" align="center" valign="bottom"/>
 </div>  
 
 
