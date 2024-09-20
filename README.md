@@ -3,13 +3,9 @@
 # hello, loupy's here :)
   
 
-- futures trader and freelance Sierra Chart developper
-  
-
-- currently working on various trading algos and custom studies for my clients
-
-
 - studying computer science at 42 Mulhouse
+  
+- freelance Sierra Chart developper
  
 
 ## skills  
@@ -25,7 +21,7 @@
   
 
 <div align="center">
-<a href="https://twitter.com/nathanwolfy" target="_blank">
+<a href="https://twitter.com/nathanloupy" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/nathanledergerber" target="_blank">
@@ -33,12 +29,6 @@
 </a>
 <a href="https://github.com/Nathanloupy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-<a href="https://fr.fiverr.com/nathanwolfy" target="_blank">
-<img src=https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.upwork.com/freelancers/nathanl14" target="_blank">
-<img src=https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 </div>  
 
@@ -51,7 +41,7 @@
 <br />
 <br />
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nathanwolfy/nathanwolfy/84d176b3a116bc2d2795aaf6dc995fc0769c810d/upisdown.gif" align="center" valign="bottom"/>
+<img src="https://raw.githubusercontent.com/Nathanloupy/nathanloupy/84d176b3a116bc2d2795aaf6dc995fc0769c810d/upisdown.gif" align="center" valign="bottom"/>
 </div>  
 
 
